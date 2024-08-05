@@ -1,6 +1,6 @@
-# ContosoPetFriends
+# PetFriends
 
-Welcome to the Contoso PetFriends app! This console application helps you manage information about your pets with ease. Whether you're a pet owner or run a small pet care facility, ContosoPetFriends offers a simple and efficient way to keep track of your animal companions.
+Welcome to the PetFriends app! This console application helps you manage information about your pets with ease. Whether you're a pet owner or run a small pet care facility, PetFriends offers a simple and efficient way to keep track of your animal companions.
 
 ## Features
 
@@ -29,4 +29,4 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/your-username/ContosoPetFriends.git
+   git clone https://github.com/your-username/PetFriends.git
